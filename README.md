@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Erik, a Computer Science major at Georgia Tech. 
+I'm Erik, a Computer Science major at Georgia Tech specializing in AI and Theory. 
 <!--
 **Li-Erik/Li-Erik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
